@@ -2,6 +2,7 @@
     "name": "react-app",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://HuyNguyenCode.github.io/worldkeys_project/",
     "dependencies": {
         "@formatjs/intl-pluralrules": "^3.5.6",
         "@formatjs/intl-relativetimeformat": "^7.3.6",
@@ -11,6 +12,7 @@
         "bootstrap": "^4.6.2",
         "classnames": "^2.3.2",
         "connected-react-router": "^6.9.3",
+        "gh-pages": "^5.0.0",
         "moment": "^2.29.4",
         "node-sass": "^9.0.0",
         "normalize.css": "^8.0.1",
@@ -39,7 +41,9 @@
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "eject": "react-scripts eject"
+        "eject": "react-scripts eject",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
     },
     "overrides": {
         "autoprefixer": "10.4.5"
