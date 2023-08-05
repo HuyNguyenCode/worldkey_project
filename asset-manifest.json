@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/worldkeys_project/static/css/main.6665b530.css",
+    "main.js": "/worldkeys_project/static/js/main.c27ac66d.js",
+    "static/media/fa-solid-900.ttf": "/worldkeys_project/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/worldkeys_project/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/worldkeys_project/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/worldkeys_project/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/worldkeys_project/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/worldkeys_project/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/worldkeyslogo.png": "/worldkeys_project/static/media/worldkeyslogo.f13703a18a42d2f21c14.png",
+    "index.html": "/worldkeys_project/index.html",
+    "static/media/dropdown.svg": "/worldkeys_project/static/media/dropdown.0c21b67b45d8d66c352f.svg",
+    "main.6665b530.css.map": "/worldkeys_project/static/css/main.6665b530.css.map",
+    "main.c27ac66d.js.map": "/worldkeys_project/static/js/main.c27ac66d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6665b530.css",
+    "static/js/main.c27ac66d.js"
+  ]
+}
