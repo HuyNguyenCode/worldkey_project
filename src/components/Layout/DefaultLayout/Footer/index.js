@@ -33,8 +33,7 @@ function Footer() {
                     </div>
 
                     <div className={cx('down-content')}>
-                        <div className={cx('footer-logo')}></div>
-                        <div className={cx('footer-copyright')}>© 2023 Worldkeys.pro, Inc.</div>
+                        <div className={cx('footer-copyright')}>© Worldkeys.pro 2020 – 2023.</div>
                     </div>
                 </div>
             </div>

@@ -74,3 +74,69 @@
         }
     }
 }
+
+.container {
+    .course-content {
+        margin-top: 50px;
+    }
+    .course-item {
+        max-width: 23.5rem;
+        min-width: 17.3rem;
+        cursor: pointer;
+        .course-img {
+            background: url('https://didongviet.vn/dchannel/wp-content/uploads/2022/03/ipad-air-4-gia-bao-nhieu-04.jpg');
+            background-size: cover;
+            width: 10%;
+            height: 10%;
+            border: 1px solid rgb(209, 215, 220);
+        }
+        .course-title {
+            margin: 8px 0 4px 0;
+        }
+        .course-coach {
+            margin-bottom: 4px;
+        }
+        .course-rate {
+            display: flex;
+            align-items: center;
+            margin-bottom: 4px;
+            span {
+                color: #b4690e;
+                font-size: 1.4rem;
+                margin-right: 0.5rem;
+            }
+
+            .comment-rate {
+                color: #6a6f73;
+                margin-left: 0.4rem;
+            }
+        }
+        .course-price {
+            display: flex;
+            align-items: center;
+            white-space: nowrap;
+
+            .price {
+                line-height: 1;
+                padding: 0.4rem 0;
+                margin-right: 0.8rem;
+                margin-right: 4px;
+            }
+            .price-origin {
+                text-decoration: line-through;
+                color: #6a6f73;
+                line-height: 1;
+                padding: 0.4rem 0;
+                margin-right: 0.8rem;
+            }
+        }
+    }
+}
+
+.slick-prev {
+    right: 25px !important;
+}
+
+.slick-next {
+    right: -15px !important;
+}
