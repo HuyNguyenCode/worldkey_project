@@ -27,17 +27,4 @@ function App() {
         </Router>
     );
 }
-
-// const mapStateToProps = (state) => {
-//     return {
-//         started: state.app.started,
-//         isLoggedIn: state.user.isLoggedIn,
-//     };
-// };
-
-// const mapDispatchToProps = (dispatch) => {
-//     return {};
-// };
-
-// export default connect(mapStateToProps, mapDispatchToProps)(App);
 export default App;
